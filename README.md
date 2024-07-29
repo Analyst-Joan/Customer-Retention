@@ -204,7 +204,7 @@ These potential KPIs are aligned with the retention Manager’s objectives and c
 ## Conclusion
 The KPIs should be tracked over time and used to guide decision-making and performance improvement efforts. 
 
-Here is the [interactive Dashboards](https://drive.google.com/file/d/13sbP8_0BKpj8quYXlyudNlGRcVHeLEE1/view?usp=sharing) designed to provide flexibility for The Engagement Partner at PwC and Janet, The Retention Manager at PhoneNow Telecoms, to enable querying of varying metrics and in-depth discourse of the findings with the management team.
+Here is the [interactive Dashboards](https://app.powerbi.com/view?r=eyJrIjoiODk0YjQ1YWQtNWQwZS00NzdmLWE3YWUtYWU5NmIwMjdhOTNmIiwidCI6ImFiMTA0YzYwLTZkZTYtNDc1ZC1hMjBmLTg5M2Y2OWQ2NzlhNCJ9) designed to provide flexibility for The Engagement Partner at PwC and Janet, The Retention Manager at PhoneNow Telecoms, to enable querying of varying metrics and in-depth discourse of the findings with the management team.
 
 Thank you.
 
